@@ -1,5 +1,8 @@
 # Design-Pattern-Lab-Work
-In this repository, I will be sharing all of my  design patterns lab work using java. Please feel free to explore my projects, code implementations, and design pattern examples. Your feedback and contributions are always welcome!
+In this repository, I will be sharing all of my  design patterns lab work using Java. Please feel free to explore my projects, code implementations, and design pattern examples. Your feedback and contributions are always welcome!
+**LAB Assignments Document Files**
+This folder contains all Lab Assignments Word documents and theoretical solutions to the questions.
+
 **LAB 1**
 **Assignment Title: Lab1 Part1 Understanding OOP Concepts with Code Examples**
 
@@ -27,6 +30,15 @@ Description: Abstraction is a fundamental OOP concept. This package contains cod
 Interface Concepts
 Package Name: InterfaceConcepts
 Description: The InterfaceConcepts package explores the role of interfaces in OOP, promoting code consistency and flexibility.
+
+**LAB 2**
+**Assignment Title: Lab2 Exploring Java Advance Concepts**
+The answers and implementation to the following questions:
+1.	Overloading of the main method is possible or not?
+2.	Can we create a program without the main method? How many main methods are allowed in Java Programs?
+3.	What are the six ways to use this keyword?
+4.	Prove that multiple inheritance is not supported in Java?
+5.	How to override the static method?
 
 **Usage:**
 Each package within this repository contains its own set of code examples and explanations. You can explore these packages individually to gain a deeper understanding of the respective OOP concepts.
