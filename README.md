@@ -3,11 +3,11 @@ In this repository, I will be sharing all of my  design patterns lab work using 
 **LAB Assignments Document Files**
 This folder contains all Lab Assignments Word documents and theoretical solutions to the questions.
 
-**LAB 1**
+**LAB 1 Part1**
 **Assignment Title: Lab1 Part1 Understanding OOP Concepts with Code Examples**
 
 **Introduction**
-In Lab 1, I have organized the code into separate packages, each dedicated to illustrating a specific Object-Oriented Programming (OOP) concept. These packages are designed to provide a clear 
+In Lab 1 part1, I have organized the code into separate packages, each dedicated to illustrating a specific Object-Oriented Programming (OOP) concept. These packages are designed to provide a clear 
 and explicit understanding of various OOP concepts, such as encapsulation, inheritance, polymorphism, and more. Each package contains code implementations that exemplify the respective concept.
 
 **Packages Overview**
@@ -31,7 +31,7 @@ Interface Concepts
 Package Name: InterfaceConcepts
 Description: The InterfaceConcepts package explores the role of interfaces in OOP, promoting code consistency and flexibility.
 
-**LAB 2**
+**LAB 1 Part2**
 **Assignment Title: Lab2 Exploring Java Advance Concepts**
 The answers and implementation to the following questions:
 1.	Overloading of the main method is possible or not?

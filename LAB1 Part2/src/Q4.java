@@ -12,7 +12,8 @@ class Parent2 {
 }
 // This will result in a compilation error because Java does not allow
 // a class to inherit from multiple classes.
-class Child extends Parent1, Parent2{
+//class Child extends Parent1, Parent2{
+class Child extends Parent1{
    
 }
 public class Q4 {
