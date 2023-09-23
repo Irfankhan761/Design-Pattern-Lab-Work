@@ -1,4 +1,4 @@
-package ObserverPattern;
+package ObserverPatternLabTask;
 
 import java.util.ArrayList;
 import java.util.List;

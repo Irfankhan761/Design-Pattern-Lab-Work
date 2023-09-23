@@ -1,4 +1,4 @@
-package ObserverPattern;
+package ObserverPatternLabTask;
 
 
 public class ObserverPatternDemo {

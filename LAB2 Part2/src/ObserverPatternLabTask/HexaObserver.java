@@ -1,5 +1,5 @@
 
-package ObserverPattern;
+package ObserverPatternLabTask;
 
 public class HexaObserver extends Observer{
         public HexaObserver(Subject subject){

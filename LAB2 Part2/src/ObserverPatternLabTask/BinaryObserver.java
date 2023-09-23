@@ -1,5 +1,5 @@
 
-package ObserverPattern;
+package ObserverPatternLabTask;
 
 
 public class BinaryObserver extends Observer{

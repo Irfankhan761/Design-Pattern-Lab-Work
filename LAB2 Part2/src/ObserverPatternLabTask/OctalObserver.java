@@ -1,5 +1,5 @@
 
-package ObserverPattern;
+package ObserverPatternLabTask;
 
 public class OctalObserver extends Observer{
     public OctalObserver(Subject subject){
