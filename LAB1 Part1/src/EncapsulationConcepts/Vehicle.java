@@ -1,5 +1,9 @@
 package EncapsulationConcepts;
 
+/**
+ *
+ * @author Irfan Khan
+ */
 public class Vehicle {
 
     private String name;

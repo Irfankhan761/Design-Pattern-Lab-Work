@@ -1,5 +1,9 @@
 package InterfacesConcept;
 
+/**
+ *
+ * @author Irfan Khan
+ */
 public class Ferrari implements Vehicle, Car {
 
     @Override

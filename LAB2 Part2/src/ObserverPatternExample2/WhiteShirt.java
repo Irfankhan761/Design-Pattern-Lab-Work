@@ -1,5 +1,9 @@
 package ObserverPatternExample2;
 
+/**
+ *
+ * @author Irfan Khan
+ */
 import java.util.ArrayList;
 
 public class WhiteShirt implements Publisher {

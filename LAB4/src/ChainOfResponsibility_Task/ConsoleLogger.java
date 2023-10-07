@@ -1,6 +1,9 @@
-
 package ChainOfResponsibility_Task;
 
+/**
+ *
+ * @author Irfan Khan
+ */
 public class ConsoleLogger extends AbstractLogger {
 
     public ConsoleLogger(int level) {

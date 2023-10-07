@@ -1,9 +1,13 @@
 package Decorator_Pattern_Shape_Task1;
 
+/**
+ *
+ * @author Irfan Khan
+ */
 public class DecoratorPatternDemo {
 
     public static void main(String[] args) {
-       
+
         Shape circle = new Circle();
 
         Shape redCircle = new RedShapeDecorator(new Circle());
@@ -17,7 +21,7 @@ public class DecoratorPatternDemo {
 
         System.out.println("\nRectangle of red border");
         redRectangle.draw();
-        
+
     }
 
 }

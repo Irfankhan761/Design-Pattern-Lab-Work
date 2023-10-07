@@ -1,9 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package ObserverPatternExample3;
 
+package ObserverPatternExample3;
+/**
+ *
+ * @author Irfan Khan
+ */
 import java.util.ArrayList;
 
 public class Commentary implements Publisher{

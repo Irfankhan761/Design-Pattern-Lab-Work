@@ -1,7 +1,13 @@
 package Decorator_Pattern_Shape_Task1;
 
+/**
+ *
+ * @author Irfan Khan
+ */
 public class Circle implements Shape {
- int circlePrice= 100;
+
+    int circlePrice = 100;
+
     @Override
     public void draw() {
         System.out.println("Shape: Circle");

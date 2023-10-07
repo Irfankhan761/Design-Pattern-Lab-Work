@@ -1,6 +1,9 @@
 
 package ObserverPatternLabTask;
-
+/**
+ *
+ * @author Irfan Khan
+ */
 public class HexaObserver extends Observer{
         public HexaObserver(Subject subject){
         this.subject=subject;

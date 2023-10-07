@@ -1,5 +1,9 @@
 package Decorator_Pattern_Shape_Task1;
 
+/**
+ *
+ * @author Irfan Khan
+ */
 public class RedShapeDecorator extends ShapeDecorator {
 
     public RedShapeDecorator(Shape decoratedShape) {
@@ -17,7 +21,6 @@ public class RedShapeDecorator extends ShapeDecorator {
     public int getPrice() {
         return 500;
     }
-
 
     private void setRedBorder(Shape decoratedShape) {
         System.out.println("Border Color: Red");

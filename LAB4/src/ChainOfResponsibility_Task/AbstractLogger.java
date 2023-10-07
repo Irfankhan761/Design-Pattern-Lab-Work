@@ -1,6 +1,11 @@
-
 package ChainOfResponsibility_Task;
+
+/**
+ *
+ * @author Irfan Khan
+ */
 public abstract class AbstractLogger {
+
     protected int level;
 
     //next element in chain or responsibility
@@ -9,7 +14,6 @@ public abstract class AbstractLogger {
     public void setNextLogger(AbstractLogger nextLogger) {
         this.nextLogger = nextLogger;
     }
-
 
     public void logMessageSingle(int level, String message) {
         if (this.level == level) {
@@ -30,13 +34,12 @@ public abstract class AbstractLogger {
         }
     }
 
-
     public void printChain() {
         if (nextLogger != null) {
-        System.out.print("["+this.getClass().getSimpleName() + "::" + level+"] -> ");
+            System.out.print("[" + this.getClass().getSimpleName() + "::" + level + "] -> ");
             nextLogger.printChain();
-        }else {
-            System.out.println("["+this.getClass().getSimpleName() + "::" + level+"]");
+        } else {
+            System.out.println("[" + this.getClass().getSimpleName() + "::" + level + "]");
         }
     }
 

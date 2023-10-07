@@ -1,5 +1,9 @@
 package InterfacesConcept;
 
+/**
+ *
+ * @author Irfan Khan
+ */
 class Test {
 
     public static void main(String[] args) {

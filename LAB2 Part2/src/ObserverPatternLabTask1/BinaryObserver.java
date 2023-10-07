@@ -1,9 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package ObserverPatternLabTask1;
 
+package ObserverPatternLabTask1;
+/**
+ *
+ * @author Irfan Khan
+ */
 public class BinaryObserver extends Observer {
    public BinaryObserver(Subject subject) {
       this.subject = subject;

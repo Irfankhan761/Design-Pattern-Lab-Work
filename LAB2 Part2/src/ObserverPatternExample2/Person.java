@@ -1,6 +1,9 @@
 
 package ObserverPatternExample2;
-
+/**
+ *
+ * @author Irfan Khan
+ */
 public class Person implements Subscriber{
 	String name;
 	

@@ -1,6 +1,9 @@
-
 package ChainOfResponsibility_Task;
 
+/**
+ *
+ * @author Irfan Khan
+ */
 public class ChainPatternDemo {
 
     private static AbstractLogger getChainOfLoggers() {
@@ -40,7 +43,6 @@ public class ChainPatternDemo {
         loggerChain.logMessage(LogTypes.WARNING, "Warning Message.");
         System.out.println("\nWith level: 4:ERROR");
         loggerChain.logMessage(LogTypes.ERROR, "Error Message.");
-
 
         AbstractLogger singleLogSkipOthersLogger = getSingleLogSkipOthersLogger();
         System.out.println("\nLogger chain:");

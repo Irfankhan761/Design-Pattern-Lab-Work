@@ -1,5 +1,9 @@
 
 package ChainOfResponsibility_Exampl;
+/**
+ *
+ * @author Irfan Khan
+ */
 public class ErrorLogger extends AbstractLogger {
 
    public ErrorLogger(int level){

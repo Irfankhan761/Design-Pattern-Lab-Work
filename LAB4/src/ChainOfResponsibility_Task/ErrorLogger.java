@@ -1,9 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package ChainOfResponsibility_Task;
 
+/**
+ *
+ * @author Irfan Khan
+ */
 public class ErrorLogger extends AbstractLogger {
 
     public ErrorLogger(int level) {
@@ -12,6 +12,6 @@ public class ErrorLogger extends AbstractLogger {
 
     @Override
     protected void write(String message) {
-        System.out.println("ErrorLogger :: "+message);
+        System.out.println("ErrorLogger :: " + message);
     }
 }

@@ -1,5 +1,9 @@
 package SingletonExample1;
 
+/**
+ *
+ * @author Irfan Khan
+ */
 public class Connection {
 
     private static Connection instance;

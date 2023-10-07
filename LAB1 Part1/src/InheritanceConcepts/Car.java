@@ -1,5 +1,9 @@
 package InheritanceConcepts;
 
+/**
+ *
+ * @author Irfan Khan
+ */
 public class Car {
 
     public String speed = "200km/hr";

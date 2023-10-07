@@ -1,5 +1,9 @@
 
 package ObserverPatternExample3;
+/**
+ *
+ * @author Irfan Khan
+ */
 public class SMSSubscriber implements Subscriber{
 	String userInfo;
 	
