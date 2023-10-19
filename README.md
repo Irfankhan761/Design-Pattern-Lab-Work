@@ -47,6 +47,7 @@ Types of Design Patterns
 
 
 **LAB Assignments Document Files**
+----------------------------------
 This folder contains all Lab Assignments Word documents and theoretical solutions to the questions.
 
 **LAB-1 Part-1**
