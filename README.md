@@ -79,6 +79,17 @@ To add the detach(Observer o) method to the Subject class and modify the pattern
 1. Add the detach(Observer o) method to the Subject class to remove an observer from the list of observers.
 2. Modify the notifyAllObservers() method to check if each observer is active before notifying it.
 
+**LAB-3** <br>
+**Assignment Title: Lab-3 Decorator Pattern Lab Work** <br>
+
+**LAB-4** <br>
+**Assignment Title: Lab-4 Chain-of-Responsibility Pattern Lab Work** <br>
+
+**LAB-5** <br>
+**Assignment Title: Lab-5 Iterator,Visitor,Template Pattern Lab Work** <br>
+
+**LAB-6** <br>
+**Assignment Title: Lab-6 Pattern Lab Work** <br>
 
 **Usage:**
 Each package within this repository contains its own set of code examples and explanations. You can explore these packages individually to gain a deeper understanding of the respective  concepts.
