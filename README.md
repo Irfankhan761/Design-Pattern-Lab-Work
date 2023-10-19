@@ -1,5 +1,5 @@
 # Design-Pattern-Lab-Work
-In this repository, I will be sharing all of my  design patterns lab work using Java. Please feel free to explore my projects, code implementations, and design pattern examples. Your feedback and contributions are always welcome!
+In this repository, I will be sharing all of my  design pattern lab work using Java. Please feel free to explore my projects, code implementations, and design pattern examples. Your feedback and contributions are always welcome!
 
 **LAB Assignments Document Files**
 This folder contains all Lab Assignments Word documents and theoretical solutions to the questions.
