@@ -12,8 +12,7 @@ A topic that can easily make anyone's mind wobble. Here I try to make them stick
 In this repository, I will be sharing all of my  design pattern lab work using Java. Please feel free to explore my projects, code implementations, and design pattern examples. Your feedback and contributions are always welcome!
 
 <br>
-Types of Design Patterns
------------------
+ <b>Types of Design Patterns<b>
 
 * [Creational](#creational-design-patterns)
 * [Structural](#structural-design-patterns)
