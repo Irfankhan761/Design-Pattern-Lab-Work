@@ -46,16 +46,16 @@ Types of Design Patterns
 
 
 
-*[LAB Assignments Document Files]
+**LAB Assignments Document Files** <br>
 This folder contains all Lab Assignments Word documents and theoretical solutions to the questions.
 
-**LAB-1 Part-1**
-**Assignment Title: Lab-1 Part-1 Understanding OOP Concepts with Code Examples**
+**LAB-1 Part-1** <br>
+**Assignment Title: Lab-1 Part-1 Understanding OOP Concepts with Code Examples** <br>
 In Lab-1 part-1, I have organized the code into separate packages, each dedicated to illustrating a specific Object-Oriented Programming (OOP) concept. These packages are designed to provide a clear and explicit understanding of various OOP concepts, such as encapsulation, inheritance, polymorphism, and more. Each package contains code implementations that exemplify the respective concept.
 
 
-**LAB-1 Part-2**
-**Assignment Title: Lab-2 Exploring Java Advance Concepts**
+**LAB-1 Part-2** <br>
+**Assignment Title: Lab-2 Part-2 Exploring Java Advance Concepts** <br>
 The answers and implementation to the following questions:
 1.	Overloading of the main method is possible or not?
 2.	Can we create a program without the main method? How many main methods are allowed in Java Programs?
@@ -63,20 +63,20 @@ The answers and implementation to the following questions:
 4.	Prove that multiple inheritance is not supported in Java.
 5.	How to override the static method?
 
-**Assignment Title: Lab-2 part-1 Singleton Pattern Lab Work**
+**Assignment Title: Lab-2 part-1 Singleton Pattern Lab Work** <br>
 I have done Examples and Lab Tasks of Lab-2 part-1.
 To make the given example of SingeltonFA20Homework thread-safe, we can synchronize the getInstance() method. 
 This will ensure that only one thread can access the instance of the Configuration class at a time.
 
-**Assignment Title: Lab-2 part-2 Observer Pattern Lab Work**
+**Assignment Title: Lab-2 part-2 Observer Pattern Lab Work** <br>
 In this lab, I will implement all examples of the observer pattern that were mentioned in the lab tasks.
-**Question-1 Task:**
-In the first example, I have completed my lab task. Here are the steps I followed:
+**Question-1 Task:** <br>
+In the first example, I have completed the lab task. Here are the steps I followed:
 To convert the anonymous concrete observer into a proper concrete observer class, follow these steps:
 •	Create a new class that implements the Observer interface.
 •	Override the update method in the new class to specify how it should react to updates.
 •	Instantiate the new observer class and add it to the EventSource
-**Question-2 Task:**
+**Question-2 Task:** <br>
 To add the detach(Observer o) method to the Subject class and modify the pattern so that only active observers are notified, I can make the following changes:
 1. Add the detach(Observer o) method to the Subject class to remove an observer from the list of observers.
 2. Modify the notifyAllObservers() method to check if each observer is active before notifying it.
