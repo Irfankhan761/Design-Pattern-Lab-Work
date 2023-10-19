@@ -67,13 +67,13 @@ This will ensure that only one thread can access the instance of the Configurati
 
 **LAB-2 Part-2** <br>
 **Assignment Title: Lab-2 part-2 Observer Pattern Lab Work** <br>
-In this lab, I will implement all examples of the observer pattern that were mentioned in the lab tasks.
+In this lab, I will implement all examples of the observer pattern that were mentioned in the lab tasks.<br>
 **Question-1 Task:** <br>
 In the first example, I have completed the lab task. Here are the steps I followed:
 To convert the anonymous concrete observer into a proper concrete observer class, follow these steps:
 •	Create a new class that implements the Observer interface.
 •	Override the update method in the new class to specify how it should react to updates.
-•	Instantiate the new observer class and add it to the EventSource
+•	Instantiate the new observer class and add it to the EventSource <br>
 **Question-2 Task:** <br>
 To add the detach(Observer o) method to the Subject class and modify the pattern so that only active observers are notified, I can make the following changes:
 1. Add the detach(Observer o) method to the Subject class to remove an observer from the list of observers.
