@@ -89,7 +89,7 @@ To add the detach(Observer o) method to the Subject class and modify the pattern
 **Assignment Title: Lab-5 Iterator,Visitor,Template Pattern Lab Work** <br>
 
 **LAB-6** <br>
-**Assignment Title: Lab-6 Pattern Lab Work** <br>
+**Assignment Title: Lab-6 Mediator Pattern Lab Work** <br>
 
 **Usage:**
 Each package within this repository contains its own set of code examples and explanations. You can explore these packages individually to gain a deeper understanding of the respective  concepts.
