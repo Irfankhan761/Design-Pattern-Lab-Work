@@ -19,6 +19,7 @@ public class ObserverPatternDemo {
 
         // Detach the OctalObserver
         octalObserver.setActive(false);
+        
 
         System.out.println("Second state change: 10");
         subject.setState(10);
