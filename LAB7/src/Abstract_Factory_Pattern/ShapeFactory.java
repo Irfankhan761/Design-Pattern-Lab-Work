@@ -2,17 +2,17 @@ package Abstract_Factory_Pattern;
 
 /**
  *
- * @author Irfan khan
+ * @author Irfan Khan
  */
-public class DoubleBorderFactory extends AbstractFactory {
+public class ShapeFactory extends AbstractFactory {
     @Override
     public Shape getShape(String shapeType) {
         if (shapeType.equalsIgnoreCase("RECTANGLE")) {
-            return new DoubledRectangle();
+            return new Rectangle();
         } else if (shapeType.equalsIgnoreCase("SQUARE")) {
-            return new DoubledSquare();
+            return new Square();
         } else if (shapeType.equalsIgnoreCase("TRIANGLE")) {
-            return new DoubledTriangle();
+            return new Triangle();
         }
         return null;
     }

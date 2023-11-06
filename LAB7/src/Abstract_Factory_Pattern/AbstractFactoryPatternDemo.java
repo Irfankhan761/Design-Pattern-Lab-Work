@@ -4,7 +4,6 @@ package Abstract_Factory_Pattern;
  *
  * @author Irfan Khan
  */
-import javax.swing.*;
 
 public class AbstractFactoryPatternDemo {
     public static void main(String[] args) {
