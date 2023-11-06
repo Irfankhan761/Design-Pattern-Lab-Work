@@ -52,14 +52,14 @@ public class BuilderPatternDemo {
                 return;
         }
 
-        customMeal.addItem(chosenDrink);
-
-        System.out.println("Your custom meal:");
-        customMeal.showItems();
-        System.out.println("Total Cost: " + customMeal.getCost());
-
-        if (chosenDrink instanceof Decorator) {
-            ((Decorator) chosenDrink).showDecorations();
-        }
+//        customMeal.addItem(chosenDrink);
+//
+//        System.out.println("Your custom meal:");
+//        customMeal.showItems();
+//        System.out.println("Total Cost: " + customMeal.getCost());
+//
+//        if (chosenDrink instanceof Decorator) {
+//            ((Decorator) chosenDrink).showDecorations();
+//        }
     }
 }
