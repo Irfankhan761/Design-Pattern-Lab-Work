@@ -1,14 +1,13 @@
 package Proxy_Pattern_Task_Exam;
-
-import java.util.List;
-
+import java.util.Map;
 /**
  *
- * @author TECHNIFI 1
+ * @author Irfan Khan
  */
-public interface Exam {
-    void loadQuestions();
-    void answerQuestion(int questionNumber, String answer);
-    void submitAnswers();
-    List<ExamResult> getExamResults();
+
+// Subject interface
+interface Exam {
+    void loadExam(); // Virtual Proxy method
+    void displayResults(String studentName); // Protected Proxy method
+    void addAnswers(String studentName, Map<String, String> answers); // Prototype Proxy method
 }
