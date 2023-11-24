@@ -1,7 +1,7 @@
 package Adapter_Pattern_Task;
 /**
  *
- * @author TECHNIFI 1
+ * @author Irfan Khan
  */
 public class AudioPlayer implements MediaPlayer {
    MediaAdapter mediaAdapter; 

@@ -2,7 +2,7 @@ package Adapter_Pattern_Task;
 
 /**
  *
- * @author TECHNIFI 1
+ * @author Irfan Khan
  */
 public class VlcPlayer implements AdvancedMediaPlayer {
    @Override
