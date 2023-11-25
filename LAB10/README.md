@@ -1,6 +1,14 @@
-In Lab 10 there are two Patterns: 
-1: Adapter Pattern
+***
+<p align="center">
+🎉 Lab 10 ! 🎉
+</p>
+<p align="center">
+1: Adapter Pattern <br>
 2: Command Pattern
+</p>
+
+***
+## 1: Adapter Pattern
 # Introduction
 The Adapter Design Pattern is of class *Structural* and have sub class of both *Object and Class*. It provides the functionality to make one class adapt the interface or other class.
 
