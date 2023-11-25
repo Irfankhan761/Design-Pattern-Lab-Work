@@ -26,7 +26,28 @@ Wikipedia describes them as
 - Do not try to force them; bad things are supposed to happen, if done so. 
 - Keep in mind that design patterns are solutions **to** problems, not solutions **finding** problems; so don't overthink.
 - If used in a correct place in a correct manner, they can prove to be a savior; or else they can result in a horrible mess of a code.
-  
+
+## Purpose of this Repository
+
+This repository contains the basic information and the code implementation of the commonly used design patterns so that the undertanding of the basic design patterns can become clear and easy to understand.
+
+## Why Design Patterns?
+
+1. Using a Design Pattern specific to any problem can improve the overall documentation and design of project.
+2. Using a Design Pattern can help to build effective software with usability increased to many folds.
+
+## What is Design Pattern?
+
+Description of occurrence of a single problem again and again causing to design similar solution again gave rise to construction of design pattern.
+
+## Components of Design Pattern
+
+1. Name: The name of the Design Pattern includes the problem and it's solution.
+2. Problem: What kind of problem the specific design pattern will solve.
+3. Solution: What is the solution of specific problem.
+4. Consequences: What will be the consequences in terms of space and time complexity etc.
+
+
 Types of Design Patterns
 ------------------------
 * [Creational](#creational-design-patterns)
