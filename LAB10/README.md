@@ -1,7 +1,15 @@
-In Lab 10 there are two Patterns: 
-1: Adapter Pattern
-2: Command Pattern
-# Introduction
+***
+<p align="center">
+🎉 Lab 10! 🎉
+</p>
+<p align="center">
+Adapter Pattern <br>
+Command Pattern
+</p>
+
+***
+ 
+# 1)Adapter Pattern
 The Adapter Design Pattern is of class *Structural* and have sub class of both *Object and Class*. It provides the functionality to make one class adapt the interface or other class.
 
 ## Intent
@@ -23,14 +31,13 @@ Use the Adapter Design Pattern when
     * Usage of Several Classes is Required.
     * Object Adapt interface of it's parent.
 
-## Structure
-![AdapterDesignPatternStructure](Adapter%20Design%20Pattern.png)
 ## Consequences
 1. How much Adaptation is Required.
 2. Pluggable Adapters -> A class is more usable when less classes use it.
 3. Usage of two way adapters to create Transparency.
 
-# Introduction
+***
+# 2) Command Pattern
 The Command Design Pattern is of class *Behavioral* and having subclass of *Object Behavioral*. It helps to convert the request to an object so that decoupling between invoker and handler can be done.
 
 ## Intent
@@ -44,8 +51,6 @@ Encapsulation of request as an object so that client can be parameterized with d
 Sometimes it becomes necessary to issue requests to objects without knowing anything about operation being performed. The common example can be in a user interface that a Button has to send a request after being getting clicked, but handling of this request cannot be handled by the Button itself. It is difficult to determine who will handle the response.
 Command Pattern can help to handle this scenario by turning request to object itself. This object can be stored and passed around other objects as well.
 
-## Structure
-![CommandDesignPAttern](./Command%20Design%20Pattern.png)
 ## Applicability
 Use Command Design Pattern When:
 1. Callbacks is required in the Object Oriented World.
