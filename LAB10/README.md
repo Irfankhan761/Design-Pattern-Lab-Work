@@ -1,14 +1,14 @@
 ***
 <p align="center">
-🎉 Lab 10! 🎉
+🎉 **Lab 10!** 🎉
 </p>
 <p align="center">
-Adapter Pattern <br>
-Command Pattern
+**Adapter Pattern** <br>
+**Command Pattern**
 </p>
 
 ***
-**Adapter Pattern** 
+**# Adapter Pattern** 
 # Introduction
 The Adapter Design Pattern is of class *Structural* and have sub class of both *Object and Class*. It provides the functionality to make one class adapt the interface or other class.
 
