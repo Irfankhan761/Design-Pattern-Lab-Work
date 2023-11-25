@@ -3,8 +3,8 @@
 🎉 Lab 9! 🎉
 </p>
 <p align="center">
-Facade Pattern <br>
-Proxy Pattern
+1) Facade Pattern <br>
+2) Proxy Pattern
 </p>
 
 ***
