@@ -1,6 +1,6 @@
 ***
 <p align="center">
-🎉 Lab 9! 🎉
+🎉 Lab 7! 🎉
 </p>
 <p align="center">
 1) AbstractFactory Pattern <br>
