@@ -4,7 +4,7 @@
 </p>
 <p align="center">
 1) AbstractFactory Pattern <br>
-2) Builder Pattern
+2) Builder Pattern <br>
 3) Strategy Pattern
 </p>
 
