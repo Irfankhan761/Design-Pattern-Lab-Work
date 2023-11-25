@@ -33,7 +33,7 @@ Use Facade Design Pattern when:
 
 ***
 
-# 2) # Proxy Pattern
+# 2) Proxy Pattern
 The Proxy Design Pattern is of class *Structural* and having subclass of *Object Structural*. It provides the facility of lazy loading objects on demand.
 
 ## Also Known As
