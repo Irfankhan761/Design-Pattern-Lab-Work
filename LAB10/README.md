@@ -6,6 +6,7 @@
 Adapter Pattern <br>
 Command Pattern
 </p>
+
 ***
  
 # 1)Adapter Pattern
@@ -34,6 +35,7 @@ Use the Adapter Design Pattern when
 1. How much Adaptation is Required.
 2. Pluggable Adapters -> A class is more usable when less classes use it.
 3. Usage of two way adapters to create Transparency.
+
 ***
 # 2) Command Pattern
 The Command Design Pattern is of class *Behavioral* and having subclass of *Object Behavioral*. It helps to convert the request to an object so that decoupling between invoker and handler can be done.
