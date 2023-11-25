@@ -6,8 +6,9 @@
 Adapter Pattern <br>
 Command Pattern
 </p>
+***
  
-# Adapter Pattern
+# 1)Adapter Pattern
 The Adapter Design Pattern is of class *Structural* and have sub class of both *Object and Class*. It provides the functionality to make one class adapt the interface or other class.
 
 ## Intent
@@ -33,8 +34,8 @@ Use the Adapter Design Pattern when
 1. How much Adaptation is Required.
 2. Pluggable Adapters -> A class is more usable when less classes use it.
 3. Usage of two way adapters to create Transparency.
-
-# Command Pattern
+***
+# 2) Command Pattern
 The Command Design Pattern is of class *Behavioral* and having subclass of *Object Behavioral*. It helps to convert the request to an object so that decoupling between invoker and handler can be done.
 
 ## Intent
