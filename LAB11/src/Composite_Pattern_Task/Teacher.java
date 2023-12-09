@@ -5,8 +5,6 @@ import java.util.List;
  *
  * @author Irfan Khan
  */
-// Teacher class
-
 
 public class Teacher extends BaseEmployee {
     String status, qualification;
