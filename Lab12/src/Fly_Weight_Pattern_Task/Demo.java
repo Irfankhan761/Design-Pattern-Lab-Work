@@ -20,12 +20,12 @@ public class Demo {
         for (int i = 0; i < Math.floor((double) TREES_TO_DRAW / TREE_TYPES); i++) {
             if (random.nextBoolean()) {
                 context.plant(random(0, CANVAS_SIZE), random(0, CANVAS_SIZE),
-                        "Shaltalo", Color.GREEN, "Fruito Wala Shaltalo");
+                        "Mangoe Tree", Color.GREEN, "Produced Fruits");
             }else {
                 context.plant(random(0, CANVAS_SIZE), random(0, CANVAS_SIZE),
-                        "Bekanrha", Color.ORANGE, "Fazool Wana");
+                        "Tree 1", Color.ORANGE, "produce rarai");
                 context.plant(random(0, CANVAS_SIZE), random(0, CANVAS_SIZE),
-                        "Sperdar", Color.ORANGE, "Da Zukam Machine");
+                        "Tree 2", Color.ORANGE, "Have only Leaves");
             }
         }
         context.setForestUI();
