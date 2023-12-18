@@ -165,6 +165,18 @@ To add the detach(Observer o) method to the Subject class and modify the pattern
 **LAB-10** <br>
 **Assignment Title: Lab-10 Adapter, Command Pattern Lab Work** <br>
 
+**LAB-11** <br>
+**Assignment Title: Lab-11 Composite Pattern Lab Work** <br>
+
+**LAB-12** <br>
+**Assignment Title: Lab-12 Fly-weight, State Pattern Lab Work** <br>
+
+**LAB-13** <br>
+**Assignment Title: Lab-13 Interpreter, Memento Pattern Lab Work** <br>
+
+**LAB-14** <br>
+**Assignment Title: Lab-14 ... Pattern Lab Work** <br>
+
 **Usage:**
 Each package within this repository contains its own set of code examples and explanations. You can explore these packages individually to gain a deeper understanding of the respective  concepts.
 
