@@ -4,7 +4,6 @@ package Bridge_Pattern_Task;
  *
  * @author Irfan Khan
  */
-
 public interface Remote {
 
     void power();
@@ -16,7 +15,4 @@ public interface Remote {
     void channelDown();
 
     void channelUp();
-    
-    void maxVolume();  // New method for Universal Remote
 }
-

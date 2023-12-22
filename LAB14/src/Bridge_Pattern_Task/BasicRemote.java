@@ -49,10 +49,6 @@ public class BasicRemote implements Remote {
         device.setChannel(device.getChannel() + 1);
     }
 
-    @Override
-    public void maxVolume() {
-        // not use for Ac
-    }
+   
 
-    
 }
