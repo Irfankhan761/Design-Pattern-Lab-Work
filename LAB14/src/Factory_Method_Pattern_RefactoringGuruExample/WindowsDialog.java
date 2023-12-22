@@ -1,4 +1,4 @@
-package Factory_Method_Pattern_Example;
+package Factory_Method_Pattern_RefactoringGuruExample;
 
 /**
  *
