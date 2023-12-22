@@ -6,7 +6,7 @@ package Bridge_Pattern_Task;
  */
 
 
-public class UniversalRemote extends AdvancedRemote {
+public class UniversalRemote extends BasicRemote {
 
     public UniversalRemote(Device device) {
         super(device);
@@ -14,7 +14,7 @@ public class UniversalRemote extends AdvancedRemote {
 
     public void maxVolume() {
         System.out.println("Remote: set max volume");
-        device.setVolume(100);
+        device.setVolume(device.getVolume() + 100);
     }
 }
 

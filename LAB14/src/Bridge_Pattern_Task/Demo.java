@@ -26,6 +26,7 @@ public class Demo {
 
         System.out.println("Tests with universal remote.");
         UniversalRemote universalRemote = new UniversalRemote(device);
+        universalRemote.power();
         universalRemote.maxVolume();
         device.printStatus();
     }
