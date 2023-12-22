@@ -9,7 +9,7 @@ public class Demo {
     public static void main(String[] args) {
         testDevice(new Tv());
         testDevice(new Radio());
-        testDevice(new AC());  //  new AC device
+        testDevice(new Ac());  //  new AC device
     }
 
     public static void testDevice(Device device) {
