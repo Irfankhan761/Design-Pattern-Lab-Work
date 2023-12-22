@@ -175,7 +175,7 @@ To add the detach(Observer o) method to the Subject class and modify the pattern
 **Assignment Title: Lab-13 Interpreter, Memento Pattern Lab Work** <br>
 
 **LAB-14** <br>
-**Assignment Title: Lab-14 ... Pattern Lab Work** <br>
+**Assignment Title: Lab-14 Bridge, Factory Method Pattern Lab Work** <br>
 
 **Usage:**
 Each package within this repository contains its own set of code examples and explanations. You can explore these packages individually to gain a deeper understanding of the respective  concepts.
