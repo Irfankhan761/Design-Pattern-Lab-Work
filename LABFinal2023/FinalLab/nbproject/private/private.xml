@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/MessageCommunication.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/CommunicationTemplate.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/AnnouncementObserver.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/IIterator.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/CommunicationFacade.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/Stakeholder.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/Demo.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/StakeholderIterator.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/ISettings.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/Message.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/IcommunicationStrategy.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/SMSCommunicationStrategy.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/Settings.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/IObserver.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/CommunicationMediator.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/IMediator.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/NotificationStrategy.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/ICommunicationBuilder.java</file>
+            <file>file:/C:/Users/TECHNIFI%201/Downloads/BSE%207TH%20SEMESTER/Mukhtiar%20Zamin%20(Design%20Patterns)/LAB/Design-Pattern-Lab-Work/FinalLab/src/finalLab/MessageBuilder.java</file>
+        </group>
+    </open-files>
+</project-private>
